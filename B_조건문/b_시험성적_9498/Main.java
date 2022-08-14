@@ -1,4 +1,4 @@
-package 조건문.b_시험성적_9498;
+package B_조건문.b_시험성적_9498;
 
 import java.util.Scanner;
 

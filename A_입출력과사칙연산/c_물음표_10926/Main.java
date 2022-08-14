@@ -1,4 +1,4 @@
-package 입출력과사칙연산.c_물음표_10926;
+package A_입출력과사칙연산.c_물음표_10926;
 import java.util.Scanner;
 
 public class Main {

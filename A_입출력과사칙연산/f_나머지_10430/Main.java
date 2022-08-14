@@ -1,4 +1,4 @@
-package 입출력과사칙연산.f_나머지_10430;
+package A_입출력과사칙연산.f_나머지_10430;
 
 import java.util.Scanner;
 

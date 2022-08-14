@@ -1,4 +1,4 @@
-package 입출력과사칙연산.e_체스_3003;
+package A_입출력과사칙연산.e_체스_3003;
 
 import java.util.Scanner;
 

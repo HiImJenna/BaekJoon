@@ -1,4 +1,4 @@
-package 조건문.c_윤년_2753;
+package B_조건문.c_윤년_2753;
 
 import java.util.Scanner;
 

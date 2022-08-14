@@ -1,4 +1,4 @@
-package 조건문.d_사분면_14681;
+package B_조건문.d_사분면_14681;
 
 import java.util.Scanner;
 

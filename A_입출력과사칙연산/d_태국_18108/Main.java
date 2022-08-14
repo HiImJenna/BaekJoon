@@ -1,4 +1,4 @@
-package 입출력과사칙연산.d_태국_18108;
+package A_입출력과사칙연산.d_태국_18108;
 
 import java.util.Scanner;
 

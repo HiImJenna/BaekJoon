@@ -1,4 +1,4 @@
-package 입출력과사칙연산.g_세자리수곱하기_2588;
+package A_입출력과사칙연산.g_세자리수곱하기_2588;
 
 import java.util.Scanner;
 

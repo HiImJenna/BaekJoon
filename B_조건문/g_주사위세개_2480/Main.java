@@ -1,4 +1,4 @@
-package 조건문.g_주사위세개_2480;
+package B_조건문.g_주사위세개_2480;
 
 import java.util.Scanner;
 

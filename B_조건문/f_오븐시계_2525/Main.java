@@ -1,4 +1,4 @@
-package 조건문.f_오븐시계_2525;
+package B_조건문.f_오븐시계_2525;
 
 import java.util.Scanner;
 

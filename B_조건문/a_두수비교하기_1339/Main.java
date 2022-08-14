@@ -1,4 +1,4 @@
-package 조건문.a_두수비교하기_1339;
+package B_조건문.a_두수비교하기_1339;
 
 import java.util.Scanner;
 

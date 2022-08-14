@@ -1,4 +1,4 @@
-package 조건문.e_알람시계_2884;
+package B_조건문.e_알람시계_2884;
 
 import java.util.Scanner;
 
