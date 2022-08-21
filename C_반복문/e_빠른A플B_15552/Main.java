@@ -1,36 +1,12 @@
 package C_반복문.e_빠른A플B_15552;
 
-import java.util.Scanner;
-
-import javax.swing.event.SwingPropertyChangeSupport;
-
 public class Main {
 
     public static void main(String[] args) {
         
-        Scanner sc = new Scanner(System.in);
+       
 
-        int input = (sc.nextInt(), sc.nextInt());
-        
-        
-        sc.close();
-
-    } 
-
-    public static void AandB (){
-        Scanner scan = new Scanner(System.in);
-
-        int A = (scan.nextInt());
-        int B = (scan.nextInt());
-
-    } 
-
-    for ( i = 0; i <= input; i++);
-         System.out.println();
-    
-    
-
-
+}
 }
 
 
