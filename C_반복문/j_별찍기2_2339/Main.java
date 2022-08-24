@@ -8,15 +8,18 @@ public class Main {
     Scanner sc = new Scanner(System.in);
     int random = sc.nextInt();
 
-    for (int i = 0; i < random; i++) {
-        for (int j = 0; j <= i; j++) {
-            System.out.println('*');
+    for (int i = 1; i <= random; i++) {
+        //공백
+        for (int j = random-1; j >= i ; j--) {
+            System.out.print(" ");
         }
+        //별
+        for (int k = 1; k <= i; k++) {
+            System.out.print("*");
+            }
+            System.out.println();
+        }
+
+
     }
-
-
-    sc.close();
-
-    }
-    
-}
+ }
