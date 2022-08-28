@@ -1,4 +1,4 @@
-package C_반복문.k_X보다작은수_;
+package C_반복문.k_X보다작은수_10871;
 
 import java.util.Scanner;
 
