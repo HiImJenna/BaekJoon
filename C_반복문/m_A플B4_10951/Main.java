@@ -20,6 +20,7 @@ public class Main {
         int c = a + b;
         if (c != 0) {
             System.out.println(c);
+            
         } 
     }
 }
